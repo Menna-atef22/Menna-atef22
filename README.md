@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menna-atef22&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=93c5fd&icon_color=38bdf8&text_color=cbd5f5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-atef22&layout=compact&hide_border=true&bg_color=0a0e27&title_color=93c5fd&text_color=cbd5f5"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Menna-atef22&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=93c5fd&icon_color=38bdf8&text_color=cbd5f5"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Menna-atef22&layout=compact&hide_border=true&bg_color=0a0e27&title_color=93c5fd&text_color=cbd5f5"/>
 </p>
 
 <br>

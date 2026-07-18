@@ -55,7 +55,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-atef22&hide_border=true&background=0A0E27&ring=38BDF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=CBD5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=2563EB" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Menna-atef22&hide_border=true&background=0A0E27&ring=38BDF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=CBD5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=2563EB" alt="GitHub Streak"/>
 </p>
 
 <p align="center">

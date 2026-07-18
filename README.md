@@ -69,28 +69,6 @@
 
 <br>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Menna-atef22&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Menna-atef22/Menna-atef22/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Menna-atef22/Menna-atef22/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Menna-atef22/Menna-atef22/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center"><i>⚠️ Snake animation needs a one-time GitHub Actions setup in your repo — see instructions below.</i></p>
-
-<br>
-
 ## 🚀 Featured Projects
 
 <table>

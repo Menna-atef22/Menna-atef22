@@ -101,6 +101,7 @@
 
 ### 🎬 Movie Reviews Sentiment Analysis
 BiLSTM + GloVe embeddings NLP pipeline for IMDB sentiment classification. Built under the NTI AI Scholarship.
+
 `TensorFlow` `NLTK` `Python`
 
 </td>
@@ -108,6 +109,7 @@ BiLSTM + GloVe embeddings NLP pipeline for IMDB sentiment classification. Built 
 
 ### 🩺 Diabetes Prediction Web App
 XGBoost model with GridSearchCV tuning, deployed as an interactive Streamlit app.
+
 `XGBoost` `Streamlit` `scikit-learn`
 
 </td>
@@ -117,6 +119,7 @@ XGBoost model with GridSearchCV tuning, deployed as an interactive Streamlit app
 
 ### 🫀 Organ Classification CNN
 CNN trained on clinical grayscale scans (heart, brain, liver), wrapped in a PyQt5 desktop app for live predictions.
+
 `TensorFlow` `Keras` `PyQt5`
 
 </td>
@@ -124,6 +127,7 @@ CNN trained on clinical grayscale scans (heart, brain, liver), wrapped in a PyQt
 
 ### ⚽ Football AI Tracker
 YOLOv8-based player tracking from broadcast video, generating movement heatmaps on a 2D pitch.
+
 `YOLOv8` `OpenCV` `NumPy`
 
 </td>
@@ -133,6 +137,7 @@ YOLOv8-based player tracking from broadcast video, generating movement heatmaps 
 
 ### 🖥 DICOM Viewer
 PyQt5 app to load, visualize, and anonymize DICOM medical images with 2D/3D multi-planar reconstruction.
+
 `PyQt5` `NumPy` `DICOM`
 
 </td>
@@ -140,6 +145,7 @@ PyQt5 app to load, visualize, and anonymize DICOM medical images with 2D/3D mult
 
 ### 🌍 NASA Space Apps – BloomWatch
 AI Earth-observation platform tracking flowering phenology using NDVI/EVI, soil moisture & rainfall data; LSTM pollen-risk forecasting.
+
 `XGBoost` `LSTM` `Google Earth Engine`
 
 </td>
@@ -149,6 +155,7 @@ AI Earth-observation platform tracking flowering phenology using NDVI/EVI, soil 
 
 ### 🔎 Full-Stack Search Engine
 Backend for a full-text search engine built on inverted-index data structures, with REST APIs for real-time keyword queries and relevance ranking.
+
 `Node.js` `MongoDB` `REST API`
 
 </td>

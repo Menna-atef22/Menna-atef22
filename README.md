@@ -2,7 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:5b21b6,70:2563eb,100:0891b2&height=180&section=header&text=Hello!%20I'm%20Menna&fontSize=45&fontColor=e0e7ff&animation=fadeIn&fontAlignY=38" />
 </h1>
 
-<h3 align="center">💜 Biomedical Engineering Student | Full-Stack Developer | AI & Computer Vision</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Biomedical+Engineering+Student;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Building+with+Python%2C+React+%26+TensorFlow" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Menna-atef22&label=Profile%20Views&color=38bdf8&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Menna-atef22?label=Followers&style=flat&color=38bdf8&logo=github" alt="Followers"/>
+</p>
 
 <br>
 
@@ -61,6 +68,24 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-atef22&theme=react-dark&bg_color=0a0e27&color=93c5fd&line=38bdf8&point=ffffff&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+<br>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Menna-atef22&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Menna-atef22/Menna-atef22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+<p align="center"><i>Snake animation needs a one-time setup — see note below.</i></p>
 
 <br>
 
